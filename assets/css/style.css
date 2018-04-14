@@ -51,9 +51,7 @@ body {
 #footer-div {
     border: none;
     height: 10px;
-    /* Set the hr color */
-    color: #4aaaa5; /* old IE */
-    background-color: #4aaaa5; /* Modern Browsers */
+    background-color: #4aaaa5;
     margin-bottom: 0px;
     }
 
