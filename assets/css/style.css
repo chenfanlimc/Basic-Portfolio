@@ -32,7 +32,14 @@ h2 {
     text-align: center;
     border-left: 1px solid #ccc;
     font-size: 15px;
+    color: #777777;
+    text-decoration: none;
 }   
+
+#links a:hover {
+    font-size:200%;
+    text-decoration: underline;
+}
 
 header {
     background-color: #ffffff;
@@ -73,11 +80,6 @@ footer {
     margin: 40px auto;
 }
 
-a {
-    color: #777777;
-    text-decoration: none;
-}
-
 #profilePic {
     float: left;
     padding-right: 20px;
@@ -91,9 +93,7 @@ a {
     right: 86px;
     background-color: #4aaaa5;
     color: white;
-    padding-left: 30px;
-    padding-right: 40px;  
-    width: 181px; 
+    width: 250px; 
     text-align: center;
     font-size: 12px;
     
