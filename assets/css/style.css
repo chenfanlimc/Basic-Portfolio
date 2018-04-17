@@ -64,6 +64,7 @@ footer {
     font-size: 15px;
     color: #777777;
     text-decoration: none;
+    transition: font-size 2s;
 }
 
 #links a:hover {
